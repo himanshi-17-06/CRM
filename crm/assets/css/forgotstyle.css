@@ -1,0 +1,56 @@
+body {
+    background: url('../images/images.jpg') no-repeat;
+    background-size: cover;
+}
+#forgot-image{
+    width: 250px;
+    height: 250px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.forgot-block
+{
+    width: 375px;
+    border-top: 5px solid #ff0000;
+    border-radius: 15px;
+    margin-top: 100px;
+    background: rgba(0,0,0,0.20);
+    padding: 20px;
+    float: right;
+    margin-right: 150px;
+}
+.forgot-block h1
+{
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    text-transform: uppercase;
+    color: rgb(255,255,255);
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.forgot-block input
+{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 20px 0 50px;
+    margin-bottom: 20px;
+    height: 42px;
+    font-family: cursive;
+    border-radius: 5px;
+}
+.forgot-block button
+{
+    width: 100%;
+    box-sizing: border-box;
+    color: rgb(255,255,255);
+    height: 42px;
+    text-transform: uppercase;
+    background: #ff0000;
+    font-size: 18px;
+    border: 1px solid #e15960;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
